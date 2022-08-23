@@ -14,7 +14,7 @@ programa
      leia(nota3)
 
      mediaP = ((nota1 * 2) + (nota2 * 3) + (nota3 * 5))/10
-     escreva("mediaP")
+     escreva(mediaP)
      
       se(mediaP <= 10.0 e mediaP >= 8.0){
       escreva("A")
@@ -44,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 687; 
+ * @POSICAO-CURSOR = 313; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
