@@ -1,0 +1,28 @@
+programa 
+{
+	funcao inicio()
+	{
+		cadeia nome[5]
+		inteiro i
+		escreva("digite os nomes para compor a lista: ")
+		para(i = 0; i < 5; i++){
+		leia(nome[i])
+		}
+		// mostrar os nomes na tela
+		para(i = 0; i < 5; i++){
+		escreva(" ",nome[i], "") 
+		}
+		escreva("\n\n")
+		// ordem inversa 
+		para(i = 4; i >=0; i--){
+		escreva("",nome[i],"")
+		}
+	}
+}
+		
+		
+	      
+      
+    
+  
+ 
