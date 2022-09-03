@@ -1,0 +1,16 @@
+programa
+{
+	funcao inicio ()
+	{
+	inteiro numero[10], numMult[10], i
+	escreva("digite os seus números: ","\n")
+	para(i = 0; i<10; i++){
+		leia(numero[i])
+		numMult[i] = numero[i] * 5
+}
+para (i = 0; i<10; i++){
+	escreva("\n os números em ordem sao: \n",numero[1],"|", "os numeros multiplicados sao: ",numMult[i])
+		
+	}
+}
+}
